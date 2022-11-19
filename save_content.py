@@ -10,7 +10,7 @@ from utils import get_filename_media
 from cfg import *
 
 """===============Initializing the Bot================="""
-userbot = Client("userbot", API_ID, API_HASH,bot_token=BOT_TOKEN,session_string=SESSION)
+userbot = Client("andres950108", API_ID, API_HASH,bot_token=BOT_TOKEN,session_string=SESSION)
 bot = Client("locobot", API_ID, API_HASH,bot_token=BOT_TOKEN)
 
 
